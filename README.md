@@ -315,7 +315,7 @@ Used for direct comparisons such as:
 
 # 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+> Attached pdf file of dashboard.
 
 ---
 
