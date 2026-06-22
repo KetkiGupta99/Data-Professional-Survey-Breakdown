@@ -1,4 +1,4 @@
-# 📊 Data Professional Survey Analysis Dashboard (Power BI)
+# 📊 Professional Survey Data Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 
