@@ -79,7 +79,7 @@ Converted duration values (e.g., `00:03:00`) into total minutes using DAX:
 
 ```DAX
 Total Minutes =
-MINUTE([Duration]) + SECOND([Duration]) / 60
+MINUTE([Time_Taken]) + SECOND([Time_Taken]) / 60
 ```
 
 ### Aggregation Optimization
